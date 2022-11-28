@@ -1,0 +1,170 @@
+h1,
+h3 {
+  font-family: Monsterrat-SemiBold 600;
+}
+
+body {
+  text-align: center;
+}
+
+p {
+  color: grey;
+}
+
+p {
+  position: relative;
+  right: 10px;
+}
+
+h2 {
+  position: relative;
+  right: 13.5px;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.25;
+  color: white;
+}
+
+#title {
+  background-color: #ff4c68;
+  height: 90vh;
+  text-align: left;
+}
+
+.card-content {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.card-bd {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.rel {
+  color: pink;
+  margin-bottom: 1rem;
+}
+
+.rel:hover {
+  color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 5% 5%
+}
+
+body {
+  font-family: "ubuntu";
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: ubuntu-Medium 500;
+}
+
+.nav-link {
+  margin: 10px;
+  font-size: 1.5rem;
+}
+
+.sajal {
+  margin-left: 10px;
+}
+
+.title-image {
+  width: 40vh;
+  transform: rotate(25deg);
+  position: absolute;
+  z-index: 1;
+}
+
+@media(max-width:991px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+#features {
+  padding: 7% 15%;
+
+  line-height: 1.5;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+#testimonials {
+  background-color: #ff4c68;
+
+}
+
+.dog {
+  width: 10%;
+  margin-top: 10px;
+  margin-right: 12px;
+  border-radius: 100%;
+}
+
+#press {
+  background-color: #ff4c68;
+
+  padding-bottom: 3%;
+}
+
+.press-images {
+  width: 10%;
+  margin: 50px 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.button {
+  position: relative;
+  right: 70px;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  position: relative;
+  right: 10px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+#cta {
+  padding: 7% 15%;
+  background-color: #ff4c68;
+
+}
+
+.cta-heading {
+  font-family: Monsterrat-SemiBold 600;
+  color: white;
+  font-size: 3rem;
+}
+
+#footer {
+  padding: 7% 15%;
+
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
